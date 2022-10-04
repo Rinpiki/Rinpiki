@@ -15,6 +15,6 @@
  
 </div><br>
 
-Adoro a liberdade que a programação me proporciona🙃<br>
+Adoro a liberdade que a programação me proporciona<br>
 Atualmente eu estou estudando.
 
