@@ -8,9 +8,6 @@
 
 <div size='20px'> Oi! Meu nome é Marcos. Obrigado por reservar um tempo para ver meu perfil do GitHub. :smile: 
 </div>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Atualmente estou desenvolvedo projetos back end
@@ -29,17 +26,15 @@
 <a href= https://github.com/Rinpiki?tab=repositories&q=&type=&language=html&sort= >  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/Rinpiki?tab=repositories&q=&type=&language=html&sort= >  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <a href= https://github.com/Rinpiki?tab=repositories&q=&type=&language=html&sort= >  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/Rinpiki?tab=repositories&q=&type=&language=html&sort= >  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
+<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>    
 <a href = 'https://www.github.com/Rinpiki'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
   <br>
   
-[![MARCOS GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rinpiki&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![MARCOS github stats](https://github-readme-stats.vercel.app/api?username=Rinpiki&show_icons=true&theme=tokyonight) | ![MARCOS GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinpiki&theme=tokyonight) |
 | --- | --- |
