@@ -3,7 +3,6 @@
 <p align='center'>
 </p>
  
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Rinpiki)
 [![Github](https://img.shields.io/github/followers/Rinpiki?label=Follow&style=social)](https://github.com/Rinpiki)
 
 <div size='20px'> Oi! Meu nome é Marcos. Obrigado por reservar um tempo para ver meu perfil do GitHub. :smile: 
